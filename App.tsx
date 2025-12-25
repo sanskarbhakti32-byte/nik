@@ -77,7 +77,7 @@ const App: React.FC = () => {
             <div className="w-10 h-10 bg-indigo-600 rounded-xl flex items-center justify-center text-white shadow-lg shadow-indigo-200">
               <Sparkles size={24} />
             </div>
-            <h1 className="font-bold text-xl text-slate-800 tracking-tight">SellerAI <span className="text-indigo-600">Pro</span></h1>
+            <h1 className="font-bold text-xl text-slate-800 tracking-tight">Niren <span className="text-indigo-600">AI</span></h1>
           </div>
           <button 
             onClick={() => setIsSidebarOpen(!isSidebarOpen)}
